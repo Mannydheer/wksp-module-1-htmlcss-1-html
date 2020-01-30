@@ -9,6 +9,8 @@ _actually it's HyperText Markup Language_
 ## Pop Quiz!
 
 - What is HTML?
+
+It is a markup language and not a programming language. 
 - What is CSS?
 
 ---
@@ -127,7 +129,12 @@ Anytime you catch yourself thinking...
 ## Common HTML Tags (4.01+)
 
 - Block-level elements
-    - `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`, `<p>`
+    - `<h1>`
+    Can only have 1 on a page. 
+    Then follow the order from h1 to h6 as you advance through your code. h1 --> h2 --> h3.....h4
+    
+    
+    , `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`, `<p>`
     - `<ul>`, `<ol>`, `<li>`, `<blockquote>`, `<table>`,
     - `<form>`
     - `<div>`
